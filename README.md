@@ -27,3 +27,4 @@ git status
 
 - Nombre: David Viloria
 - Correo: david_viloria04@hotmail.com
+- Semestre: 2026-2
