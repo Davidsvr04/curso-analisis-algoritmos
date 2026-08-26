@@ -24,3 +24,6 @@ git status
 ```
 
 ## Autor
+
+- Nombre: David Viloria
+- Correo: david_viloria04@hotmail.com
