@@ -65,7 +65,7 @@ Muy buen trabajo: se nota que midió, calculó y relacionó todo con el caso Tam
 - Hay cinco commits sobre el laboratorio con mensajes descriptivos.
 
 ## ¿El código funciona?
-Sí. Los dos scripts corren sin errores y generan las tres gráficas. Probé ambos algoritmos con listas vacías, pequeñas, aleatorias y repetidas, y ordenan bien.
+Sí. Los dos scripts corren sin errores y generan las tres gráficas. Ambos algoritmos ordenan bien con listas vacías, pequeñas, aleatorias y repetidas.
 
 ## Para el próximo laboratorio
 - Estime números concretos en la parte ambiental (por ejemplo, horas de procesador por año).
